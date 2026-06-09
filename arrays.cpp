@@ -1262,7 +1262,7 @@ using namespace std;
 //         cout << vec[i] << " ";
 //     }
 
-//     return 0;
+//     return 0;a
 // }
 
 // longest consecutive sequence in an array
