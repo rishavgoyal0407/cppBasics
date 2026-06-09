@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Print Name N Times                                         ║
- ║  Approach: Basic Recursion                                  ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Print Name N Times
+// Approach: Basic Recursion
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 using namespace std;
 

@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Next Permutation                                           ║
- ║  Approach: Optimal                                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(3N)                                   ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Next Permutation
+// Approach: Optimal
+// Time Complexity: O(3N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

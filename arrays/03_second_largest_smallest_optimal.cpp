@@ -1,12 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Second Largest and Second Smallest Element                 ║
- ║  Approach: Optimal (Single Pass)                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
+// Problem: Second Largest and Second Smallest Element
+// Approach: Optimal (Single Pass)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 
 #include <iostream>
 #include <climits>
@@ -22,9 +17,10 @@ int main()
         cin >> a[i];
     }
     int largest = a[0];
-    int secondLargest = INT8_MIN;
+    int secondLargest = INT_MIN;
     int smallest = a[0];
-    int secondSmallest = INT16_MAX;
+    int secondSmallest = INT_MAX;
+    
     for (int i = 0; i < n; i++)
     {
         if (a[i] > largest)
@@ -37,6 +33,7 @@ int main()
             secondLargest = a[i];
         }
     }
+    
     for (int i = 0; i < n; i++)
     {
         if (a[i] < smallest)
@@ -44,9 +41,9 @@ int main()
             secondSmallest = smallest;
             smallest = a[i];
         }
-        else if (a[i] < smallest && smallest != a[i])
+        else if (a[i] != smallest && a[i] < secondSmallest)
         {
-            smallest = a[i];
+            secondSmallest = a[i];
         }
     }
     cout << secondLargest << " " << secondSmallest << endl;

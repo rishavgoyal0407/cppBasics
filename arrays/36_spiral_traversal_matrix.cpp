@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Spiral Traversal of Matrix                                 ║
- ║  Approach: Simulation (Boundary Shrinking)                  ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(Row*Col)                              ║
- ║  Space Complexity : O(Row*Col)                              ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Spiral Traversal of Matrix
+// Approach: Simulation (Boundary Shrinking)
+// Time Complexity: O(R * C)
+// Space Complexity: O(R * C)
 #include <iostream>
 #include <vector>
 using namespace std;

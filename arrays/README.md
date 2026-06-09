@@ -25,8 +25,8 @@
 | 15 | Missing Number | Optimal (XOR) | O(N) | O(1) | `15_missing_number_xor.cpp` |
 | 16 | Max Consecutive Ones | Linear Scan | O(N) | O(1) | `16_max_consecutive_ones.cpp` |
 | 17 | Single Number (XOR) | Optimal (XOR) | O(N) | O(1) | `17_single_number_xor.cpp` |
-| 18 | Longest Subarray Sum K | Brute Force | O(N²) | O(1) | `18_longest_subarray_sum_k_brute.cpp` |
-| 19 | Longest Subarray Sum K | Better (Hashing) | - | - | `19_longest_subarray_sum_k_better.cpp` |
+| 18 | Longest Subarray Sum K | Brute Force | O(N^2) | O(1) | `18_longest_subarray_sum_k_brute.cpp` |
+| 19 | Longest Subarray Sum K | Better (Hashing) | O(N log N) | O(N) | `19_longest_subarray_sum_k_better.cpp` |
 | 20 | Longest Subarray Sum K | Optimal (Sliding Window) | O(2N) | O(1) | `20_longest_subarray_sum_k_optimal.cpp` |
 | 21 | Two Sum | Better (Hashing) | O(NlogN) | O(N) | `21_two_sum_hashing.cpp` |
 | 22 | Two Sum (Sorted) | Optimal (Two Pointer) | O(N) | O(1) | `22_two_sum_two_pointer.cpp` |
@@ -41,18 +41,18 @@
 | 31 | Leaders in Array | Right to Left Scan | O(N) | O(N) | `31_leaders_in_array.cpp` |
 | 32 | Longest Consecutive Sequence | Better (Sorting) | O(NlogN) | O(1) | `32_longest_consecutive_sequence_sorting.cpp` |
 | 33 | Longest Consecutive Sequence | Optimal (Unordered Set) | O(3N) | O(N) | `33_longest_consecutive_sequence_optimal.cpp` |
-| 34 | Set Matrix Zeroes | Optimal (In-place) | O(N²) | O(1) | `34_set_matrix_zeroes.cpp` |
-| 35 | Rotate Matrix 90° | Transpose + Reverse | O(N²) | O(1) | `35_rotate_matrix_90.cpp` |
+| 34 | Set Matrix Zeroes | Optimal (In-place) | O(N^2) | O(1) | `34_set_matrix_zeroes.cpp` |
+| 35 | Rotate Matrix 90° | Transpose + Reverse | O(N^2) | O(1) | `35_rotate_matrix_90.cpp` |
 | 36 | Spiral Traversal | Boundary Shrinking | O(R*C) | O(R*C) | `36_spiral_traversal_matrix.cpp` |
 | 37 | Count Subarrays Sum K | Prefix Sum + HashMap | O(N) | O(N) | `37_count_subarrays_with_sum_k.cpp` |
 | 38 | Pascal Triangle Element | nCr Formula | O(C) | O(1) | `38_pascal_triangle_element.cpp` |
 | 39 | Pascal Triangle Row | Formula Based | O(C) | O(1) | `39_pascal_triangle_print_row.cpp` |
-| 40 | Pascal Triangle Full | Row Generation | O(R²) | O(R²) | `40_pascal_triangle_generate.cpp` |
+| 40 | Pascal Triangle Full | Row Generation | O(R^2) | O(R^2) | `40_pascal_triangle_generate.cpp` |
 | 41 | Majority Element (>N/3) | Extended Moore's Voting | O(2N) | O(1) | `41_majority_element_n3.cpp` |
-| 42 | Three Sum | Brute Force | O(N³) | O(triplets) | `42_three_sum_brute.cpp` |
-| 43 | Three Sum | Better (HashSet) | O(N²logN) | O(N) | `43_three_sum_better.cpp` |
-| 44 | Three Sum | Optimal (Two Pointer) | O(N²) | O(triplets) | `44_three_sum_optimal.cpp` |
-| 45 | Four Sum | Optimal (Two Pointer) | O(N³) | O(quads) | `45_four_sum.cpp` |
+| 42 | Three Sum | Brute Force | O(N^3) | O(no. of triplets) | `42_three_sum_brute.cpp` |
+| 43 | Three Sum | Better (HashSet) | O(N^2logN) | O(N) | `43_three_sum_better.cpp` |
+| 44 | Three Sum | Optimal (Two Pointer) | O(N^2) | O(no. of triplets) | `44_three_sum_optimal.cpp` |
+| 45 | Four Sum | Optimal (Two Pointer) | O(N^3) | O(no. of quads) | `45_four_sum.cpp` |
 | 46 | Count Subarrays XOR K | Prefix XOR + HashMap | O(N) | O(N) | `46_count_subarrays_xor_k.cpp` |
 
 ---

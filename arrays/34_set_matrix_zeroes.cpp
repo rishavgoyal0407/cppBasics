@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Set Matrix Zeroes                                          ║
- ║  Approach: Optimal (In-place Marking)                       ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2)                                  ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Set Matrix Zeroes
+// Approach: Optimal (In-place Marking)
+// Time Complexity: O(N^2)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

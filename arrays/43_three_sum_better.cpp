@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Three Sum Problem                                          ║
- ║  Approach: Better (HashSet)                                 ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2 * logN)                           ║
- ║  Space Complexity : O(N + number of triplets)               ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Three Sum Problem
+// Approach: Better (HashSet)
+// Time Complexity: O(N^2 * logN)
+// Space Complexity: O(N + number of triplets)
 #include <iostream>
 #include <vector>
 #include <set>

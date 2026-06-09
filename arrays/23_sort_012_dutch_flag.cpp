@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Sort Array of 0s 1s and 2s (Dutch National Flag)           ║
- ║  Approach: Optimal (DNF Algorithm)                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Sort Array of 0s 1s and 2s (Dutch National Flag)
+// Approach: Optimal (DNF Algorithm)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

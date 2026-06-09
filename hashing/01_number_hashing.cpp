@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Number Hashing Using Array                                 ║
- ║  Approach: Frequency Array                                  ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N+Q)                                  ║
- ║  Space Complexity : O(max_element)                          ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Number Hashing Using Array
+// Approach: Frequency Array
+// Time Complexity: O(N+Q)
+// Space Complexity: O(max_element)
 #include <bits/stdc++.h>
 using namespace std;
 

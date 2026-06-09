@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Longest Subarray with Sum K                                ║
- ║  Approach: Brute Force                                      ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2)                                  ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Longest Subarray with Sum K
+// Approach: Brute Force
+// Time Complexity: O(N^2)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

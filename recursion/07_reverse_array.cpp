@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Reverse an Array Using Recursion                           ║
- ║  Approach: Two Pointer Recursion                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Reverse an Array Using Recursion
+// Approach: Two Pointer Recursion
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 using namespace std;
 

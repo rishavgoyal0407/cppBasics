@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Remove Duplicates from Sorted Array                        ║
- ║  Approach: Brute Force (Using Set)                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Remove Duplicates from Sorted Array
+// Approach: Brute Force (Using Set)
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
 #include <iostream>
 #include <set>
 using namespace std;

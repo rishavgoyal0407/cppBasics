@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Hashing Using Map                                          ║
- ║  Approach: Map (Ordered)                                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN + QlogN)                        ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Hashing Using Map
+// Approach: Map (Ordered)
+// Time Complexity: O(NlogN + QlogN)
+// Space Complexity: O(N)
 #include <bits/stdc++.h>
 using namespace std;
 

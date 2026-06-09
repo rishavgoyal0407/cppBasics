@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Majority Element Part-2 (> N/3 times)                      ║
- ║  Approach: Optimal (Extended Moore's Voting)                 ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(2N)                                   ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Majority Element Part-2 (> N/3 times)
+// Approach: Optimal (Extended Moore's Voting)
+// Time Complexity: O(2N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

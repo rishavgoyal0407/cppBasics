@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Best Time to Buy and Sell Stock                            ║
- ║  Approach: Optimal (Dynamic Programming)                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Best Time to Buy and Sell Stock
+// Approach: Optimal (Dynamic Programming)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <climits>
 #include <algorithm>

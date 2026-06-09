@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Left Rotate Array by One Place                             ║
- ║  Approach: Iterative                                        ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Left Rotate Array by One Place
+// Approach: Iterative
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

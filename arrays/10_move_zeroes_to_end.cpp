@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Move All Zeroes to End of Array                            ║
- ║  Approach: Optimal (Two Pointer)                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Move All Zeroes to End of Array
+// Approach: Optimal (Two Pointer)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

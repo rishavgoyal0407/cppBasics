@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Second Largest Element in an Array                         ║
- ║  Approach: Brute Force (Two Pass)                           ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Second Largest Element in an Array
+// Approach: Brute Force (Two Pass)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <climits>
 using namespace std;

@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Print N to 1                                               ║
- ║  Approach: Basic Recursion                                  ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Print N to 1
+// Approach: Basic Recursion
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 using namespace std;
 

@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Quick Sort                                                 ║
- ║  Approach: Divide and Conquer (Pivot Partition)             ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN) avg, O(N^2) worst             ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Quick Sort
+// Approach: Divide and Conquer (Pivot Partition)
+// Time Complexity: O(NlogN) avg, O(N^2) worst
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

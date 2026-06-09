@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Selection Sort                                             ║
- ║  Approach: Select Minimum & Swap                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2)                                  ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Selection Sort
+// Approach: Select Minimum & Swap
+// Time Complexity: O(N^2)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

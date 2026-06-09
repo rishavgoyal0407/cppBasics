@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Majority Element (> N/2 times)                             ║
- ║  Approach: Optimal (Moore's Voting Algorithm)               ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Majority Element (> N/2 times)
+// Approach: Optimal (Moore's Voting Algorithm)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

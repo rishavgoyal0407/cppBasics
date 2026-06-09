@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Count Subarrays with Sum Equals K                          ║
- ║  Approach: Optimal (Prefix Sum + HashMap)                   ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Count Subarrays with Sum Equals K
+// Approach: Optimal (Prefix Sum + HashMap)
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 #include <unordered_map>
 using namespace std;

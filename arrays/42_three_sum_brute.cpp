@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Three Sum Problem                                          ║
- ║  Approach: Brute Force (Triple Nested Loops)                ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^3)                                  ║
- ║  Space Complexity : O(number of triplets)                   ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Three Sum Problem
+// Approach: Brute Force (Triple Nested Loops)
+// Time Complexity: O(N^3)
+// Space Complexity: O(number of triplets)
 #include <iostream>
 #include <vector>
 #include <set>

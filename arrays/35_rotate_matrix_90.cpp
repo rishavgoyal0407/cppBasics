@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Rotate Matrix Image by 90 Degrees                          ║
- ║  Approach: Optimal (Transpose + Reverse)                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N/2 * N/2) + O(N/2)                  ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Rotate Matrix Image by 90 Degrees
+// Approach: Optimal (Transpose + Reverse)
+// Time Complexity: O(N^2)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

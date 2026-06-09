@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Three Sum Problem                                          ║
- ║  Approach: Optimal (Sort + Two Pointer)                     ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2)                                  ║
- ║  Space Complexity : O(number of triplets)                   ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Three Sum Problem
+// Approach: Optimal (Sort + Two Pointer)
+// Time Complexity: O(N^2)
+// Space Complexity: O(number of triplets)
 #include <iostream>
 #include <vector>
 #include <algorithm>

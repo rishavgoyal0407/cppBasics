@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Rotate Array by D Places                                   ║
- ║  Approach: Better (Using Temp Array)                        ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(D)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Rotate Array by D Places
+// Approach: Better (Using Temp Array)
+// Time Complexity: O(N)
+// Space Complexity: O(D)
 #include <iostream>
 using namespace std;
 

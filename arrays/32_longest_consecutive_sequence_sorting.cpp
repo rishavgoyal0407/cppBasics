@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Longest Consecutive Sequence                               ║
- ║  Approach: Better (Sorting)                                 ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Longest Consecutive Sequence
+// Approach: Better (Sorting)
+// Time Complexity: O(NlogN)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 #include <climits>

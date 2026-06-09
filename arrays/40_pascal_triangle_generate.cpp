@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Pascal Triangle - Generate Full Triangle                   ║
- ║  Approach: Row Generation                                   ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(Row^2)                                ║
- ║  Space Complexity : O(Row^2)                                ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Pascal Triangle - Generate Full Triangle
+// Approach: Row Generation
+// Time Complexity: O(R^2)
+// Space Complexity: O(R^2)
 #include <iostream>
 #include <vector>
 using namespace std;

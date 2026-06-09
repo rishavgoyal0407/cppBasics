@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Rotate Array by D Places                                   ║
- ║  Approach: Optimal (Reversal Algorithm)                     ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Rotate Array by D Places
+// Approach: Optimal (Reversal Algorithm)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

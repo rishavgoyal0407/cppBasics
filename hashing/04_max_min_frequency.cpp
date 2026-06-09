@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Max and Min Frequency Element                              ║
- ║  Approach: Map Based                                        ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Max and Min Frequency Element
+// Approach: Map Based
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
 #include <bits/stdc++.h>
 using namespace std;
 

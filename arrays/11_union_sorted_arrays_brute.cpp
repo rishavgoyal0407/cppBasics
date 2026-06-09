@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Union of Two Sorted Arrays                                 ║
- ║  Approach: Brute Force (Using Set)                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Union of Two Sorted Arrays
+// Approach: Brute Force (Using Set)
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
 #include <iostream>
 #include <set>
 using namespace std;

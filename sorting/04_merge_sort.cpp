@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Merge Sort                                                 ║
- ║  Approach: Divide and Conquer (Merge)                       ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Merge Sort
+// Approach: Divide and Conquer (Merge)
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
 #include <iostream>
 #include <vector>
 using namespace std;

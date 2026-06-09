@@ -1,12 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Two Sum Problem (Sorted Array)                             ║
- ║  Approach: Optimal (Two Pointer / Greedy)                   ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
+// Problem: Two Sum Problem (Sorted Array)
+// Approach: Optimal (Two Pointer / Greedy)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 
 #include <iostream>
 using namespace std;
@@ -31,7 +26,8 @@ int main()
         int sum = a + b;
         if (sum == target)
         {
-            cout << left << right << endl;
+            cout << left << " " << right << endl;
+            break;
         }
         else if (sum < target)
         {

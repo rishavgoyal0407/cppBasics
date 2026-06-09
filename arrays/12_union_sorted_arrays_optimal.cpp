@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Union of Two Sorted Arrays                                 ║
- ║  Approach: Optimal (Two Pointer)                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N1+N2)                                ║
- ║  Space Complexity : O(N1+N2)                                ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Union of Two Sorted Arrays
+// Approach: Optimal (Two Pointer)
+// Time Complexity: O(N1+N2)
+// Space Complexity: O(N1+N2)
 #include <iostream>
 #include <vector>
 using namespace std;

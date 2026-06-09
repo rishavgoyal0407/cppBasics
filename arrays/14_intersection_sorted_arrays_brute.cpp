@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Intersection of Two Sorted Arrays                          ║
- ║  Approach: Brute Force (Visited Array)                      ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N1*N2)                                ║
- ║  Space Complexity : O(N2)                                   ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Intersection of Two Sorted Arrays
+// Approach: Brute Force (Visited Array)
+// Time Complexity: O(N1*N2)
+// Space Complexity: O(N2)
 #include <iostream>
 #include <vector>
 using namespace std;

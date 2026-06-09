@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Leaders in an Array                                        ║
- ║  Approach: Optimal (Right to Left Scan)                     ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Leaders in an Array
+// Approach: Optimal (Right to Left Scan)
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 #include <vector>
 #include <climits>

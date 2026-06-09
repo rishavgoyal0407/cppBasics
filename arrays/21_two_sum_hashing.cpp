@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Two Sum Problem                                            ║
- ║  Approach: Better (Hashing / Map)                           ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(NlogN)                                ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Two Sum Problem
+// Approach: Better (Hashing / Map)
+// Time Complexity: O(NlogN)
+// Space Complexity: O(N)
 #include <iostream>
 #include <map>
 using namespace std;

@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Intersection of Two Sorted Arrays                          ║
- ║  Approach: Optimal (Two Pointer)                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N1+N2)                                ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Intersection of Two Sorted Arrays
+// Approach: Optimal (Two Pointer)
+// Time Complexity: O(N1+N2)
+// Space Complexity: O(1)
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Maximum Subarray Sum (Kadane's Algorithm)                  ║
- ║  Approach: Optimal (Kadane's)                               ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Maximum Subarray Sum (Kadane's Algorithm)
+// Approach: Optimal (Kadane's)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <climits>
 #include <algorithm>

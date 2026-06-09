@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Longest Consecutive Sequence                               ║
- ║  Approach: Optimal (Unordered Set)                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(3N)                                   ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Longest Consecutive Sequence
+// Approach: Optimal (Unordered Set)
+// Time Complexity: O(3N)
+// Space Complexity: O(N)
 #include <iostream>
 #include <unordered_set>
 #include <climits>

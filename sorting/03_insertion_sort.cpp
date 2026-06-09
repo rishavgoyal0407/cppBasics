@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Insertion Sort                                             ║
- ║  Approach: Place Element at Correct Position                ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^2) worst/avg, O(N) best             ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Insertion Sort
+// Approach: Place Element at Correct Position
+// Time Complexity: O(N^2) worst/avg, O(N) best
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

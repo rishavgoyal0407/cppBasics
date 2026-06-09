@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Maximum Consecutive Ones                                   ║
- ║  Approach: Linear Scan                                      ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Maximum Consecutive Ones
+// Approach: Linear Scan
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

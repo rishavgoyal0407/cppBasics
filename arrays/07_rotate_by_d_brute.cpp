@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Rotate Array by D Places                                   ║
- ║  Approach: Brute Force                                      ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N*D)                                  ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Rotate Array by D Places
+// Approach: Brute Force
+// Time Complexity: O(N*D)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

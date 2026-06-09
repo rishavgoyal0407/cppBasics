@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Majority Element (> N/2 times)                             ║
- ║  Approach: Better (Hashing)                                 ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N) + O(NlogN)                         ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Majority Element (> N/2 times)
+// Approach: Better (Hashing)
+// Time Complexity: O(N log N)
+// Space Complexity: O(N)
 #include <iostream>
 #include <map>
 using namespace std;

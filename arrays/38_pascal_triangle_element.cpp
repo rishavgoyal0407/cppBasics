@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Pascal Triangle - Find Element at (R,C)                    ║
- ║  Approach: Formula (nCr)                                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(C)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Pascal Triangle - Find Element at (R,C)
+// Approach: Formula (nCr)
+// Time Complexity: O(C)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

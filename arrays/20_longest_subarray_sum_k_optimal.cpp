@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Longest Subarray with Sum K (Positives Only)               ║
- ║  Approach: Optimal (Sliding Window)                         ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(2N)                                   ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Longest Subarray with Sum K (Positives Only)
+// Approach: Optimal (Sliding Window)
+// Time Complexity: O(2N)
+// Space Complexity: O(1)
 #include <iostream>
 #include <algorithm>
 using namespace std;

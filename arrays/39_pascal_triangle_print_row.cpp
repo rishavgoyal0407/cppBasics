@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Pascal Triangle - Print Complete Row                       ║
- ║  Approach: Formula Based                                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(C)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Pascal Triangle - Print Complete Row
+// Approach: Formula Based
+// Time Complexity: O(C)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

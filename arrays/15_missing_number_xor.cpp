@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Missing Number in Array                                    ║
- ║  Approach: Optimal (XOR)                                    ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Missing Number in Array
+// Approach: Optimal (XOR)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

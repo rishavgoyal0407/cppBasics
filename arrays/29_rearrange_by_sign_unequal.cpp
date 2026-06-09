@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Rearrange Array by Sign (Unequal Pos & Neg)                ║
- ║  Approach: Optimal                                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(2N)                                   ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Rearrange Array by Sign (Unequal Pos & Neg)
+// Approach: Optimal
+// Time Complexity: O(2N)
+// Space Complexity: O(N)
 #include <iostream>
 #include <vector>
 using namespace std;

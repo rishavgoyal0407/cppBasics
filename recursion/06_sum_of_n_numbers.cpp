@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Sum of N Natural Numbers                                   ║
- ║  Approach: Parameterized Recursion                          ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(N)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Sum of N Natural Numbers
+// Approach: Parameterized Recursion
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 #include <iostream>
 using namespace std;
 

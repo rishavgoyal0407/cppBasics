@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Remove Duplicates from Sorted Array                        ║
- ║  Approach: Optimal (Two Pointer)                            ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N)                                    ║
- ║  Space Complexity : O(1)                                    ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Remove Duplicates from Sorted Array
+// Approach: Optimal (Two Pointer)
+// Time Complexity: O(N)
+// Space Complexity: O(1)
 #include <iostream>
 using namespace std;
 

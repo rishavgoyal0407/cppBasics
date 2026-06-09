@@ -1,13 +1,7 @@
-/*
- ╔══════════════════════════════════════════════════════════════╗
- ║  Four Sum Problem                                           ║
- ║  Approach: Optimal (Sort + Two Pointer)                     ║
- ╠══════════════════════════════════════════════════════════════╣
- ║  Time Complexity  : O(N^3)                                  ║
- ║  Space Complexity : O(number of quads)                      ║
- ╚══════════════════════════════════════════════════════════════╝
-*/
-
+// Problem: Four Sum Problem
+// Approach: Optimal (Sort + Two Pointer)
+// Time Complexity: O(N^3)
+// Space Complexity: O(number of quads)
 #include <iostream>
 #include <vector>
 #include <algorithm>
