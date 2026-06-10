@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Time: O((n+m) log(n+m))
+// Space: O(1)
 
 void swapElement(int arr1[], int arr2[], int idx1, int idx2)
 {
