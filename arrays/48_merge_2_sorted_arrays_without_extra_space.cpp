@@ -1,11 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+// brute force
 // Time Complexity-: O(nlogn)+O(mlogm)+O(n+m)
 // Space Complexity-: O(n+m)
 int main()
 {
 
-    int arr1[] = {1, 6, 3, 9};
+    int arr1[] = {1, 3, 3, 9};
     int n = sizeof(arr1) / sizeof(arr1[0]);
     int arr2[] = {5, 2, 7, 8, 4};
     int m = sizeof(arr2) / sizeof(arr2[0]);
